@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="16dp"
+    android:paddingLeft="30dp">
+
+    <TextView
+        android:id="@+id/tvGuest"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:gravity="center_horizontal"
+        android:textSize="14sp"
+        android:hint="@string/tv_name"
+        android:background="@drawable/ic_guest"
+        android:textStyle="bold"
+        android:textColor="@color/colorBlack"/>
+
+</LinearLayout>

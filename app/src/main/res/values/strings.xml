@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Suitmedia</string>
+    <string name="et_name">Masukkan Nama Anda</string>
+    <string name="btn_name">Next</string>
+    <string name="tv_name">Nama :</string>
+    <string name="view_name">Nama Anda</string>
+    <string name="btn_event">Pilih Event</string>
+    <string name="btn_guest">Pilih Guest</string>
+
+</resources>
